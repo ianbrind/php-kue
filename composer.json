@@ -1,5 +1,5 @@
 {
-  "name": "iboz/kue",
+  "name": "iboz/php-kue",
   "description": "Kue is a priority job queue backed by redis",
   "keywords": ["kue", "background jobs", "jobs queue"],
   "license": "MIT",

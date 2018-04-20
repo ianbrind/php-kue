@@ -1,5 +1,5 @@
 {
-  "name": "kue/kue",
+  "name": "iboz/kue",
   "description": "Kue is a priority job queue backed by redis",
   "keywords": ["kue", "background jobs", "jobs queue"],
   "license": "MIT",
@@ -7,6 +7,10 @@
     {
       "name": "Corrie Zhao",
       "email": "hfcorriez@gmail.com"
+    },
+    {
+      "name": "Ian Brindley",
+      "email": "ianbrindley1@gmail.com"
     }
   ],
   "require": {
